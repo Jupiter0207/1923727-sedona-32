@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Galimov Dmitriy](https://up.htmlacademy.ru/htmlcss/32/user/1923727).
-* Наставник: `Неизвестно`.
+* Наставник: [Кирьян Горячев] (https://htmlacademy.ru/profile/id578191).
 
 ---
 
